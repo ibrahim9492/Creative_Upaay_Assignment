@@ -16,9 +16,6 @@ It matches the Figma tokens for typography, colors, and card styles, and include
 3. Start the development server:
    npm start
 
-4. Open http://localhost:3000 in your browser.
-
-
 🛠️ Technologies Used
 - React.js – Component-based UI framework
 - Redux Toolkit – State management with localStorage persistence
