@@ -34,7 +34,7 @@ It matches the Figma tokens for typography, colors, and card styles, and include
 - Error handling and form validations (e.g., task creation) are minimal.
 
 🌐 Live Demo
-Creative Upaay Dashboard: https://creative-upaay-eta.vercel.app/
+Creative Upaay Dashboard: https://creative-upaay-assignment-delta.vercel.app/
 
 📂 GitHub Repository
 GitHub Repo: https://github.com/ibrahim9492/Creative_Upaay_Assignment.git
